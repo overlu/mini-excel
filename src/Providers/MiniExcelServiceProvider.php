@@ -10,7 +10,7 @@ namespace MiniExcel\Providers;
 use Mini\Support\ServiceProvider;
 use MiniExcel\Excel;
 
-class FastExcelServiceProvider extends ServiceProvider
+class MiniExcelServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap any application services.
