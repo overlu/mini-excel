@@ -1,0 +1,25 @@
+{
+    "name": "overlu/mini-excel",
+    "type": "package",
+    "description": "Excel import/export for Mini",
+    "keywords": [
+        "mini",
+        "excel",
+        "swoole"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^8.1",
+        "overlu/mini-framework": "~3.2.0",
+        "openspout/openspout": "^4.19",
+        "symfony/http-foundation": "^6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "MiniExcel\\": "src/"
+        },
+        "files": [
+            "src/helper.php"
+        ]
+    }
+}
