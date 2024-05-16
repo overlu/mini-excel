@@ -7,10 +7,10 @@ declare(strict_types=1);
 
 namespace MiniExcel\Providers;
 
-use Mini\Support\ServiceProvider;
+use Mini\Service\AbstractServiceProvider;
 use MiniExcel\Excel;
 
-class MiniExcelServiceProvider extends ServiceProvider
+class MiniExcelServiceProvider extends AbstractServiceProvider
 {
     /**
      * Bootstrap any application services.

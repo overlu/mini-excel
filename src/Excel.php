@@ -24,9 +24,9 @@ class Excel
     use Exportable;
 
     /**
-     * @var Collection|Generator|array
+     * @var Collection|Generator|array|null
      */
-    protected Collection|Generator|array $data;
+    protected Collection|Generator|array|null $data = null;
 
     /**
      * @var bool
