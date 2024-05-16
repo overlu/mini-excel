@@ -1,4 +1,4 @@
-> 感谢 rap2hpoutre/fast-excel 提供了优秀的支付扩展 具体使用说明请传送至 https://github.com/rap2hpoutre/fast-excel
+> 感谢 rap2hpoutre/fast-excel 提供了优秀扩展 具体使用说明请传送至 https://github.com/rap2hpoutre/fast-excel
 
 ## Quick start
 
